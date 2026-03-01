@@ -1,0 +1,6 @@
+display "Hello"
+A = -2
+B = A + 2
+B = B % 2
+display A
+display B
